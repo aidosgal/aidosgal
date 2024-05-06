@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=weble+kz">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application and IOT developer from <b>Astana</b> 」
+    「 I am a Go developer from <b>Astana</b> 」
     <br>
     <br>
   </samp>
