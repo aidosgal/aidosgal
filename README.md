@@ -35,4 +35,4 @@
  </a> 
 </p>
 <br />
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bizzar?theme=light&extension=activity)](https://leetcard.jacoblin.cool/bizzar?theme=light&extension=activity)
