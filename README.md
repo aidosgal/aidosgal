@@ -35,4 +35,8 @@
  </a> 
 </p>
 <br />
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bizzar?theme=light&extension=activity)](https://leetcard.jacoblin.cool/bizzar?theme=light&extension=activity)
+<div align="center">
+  <a href="https://leetcard.jacoblin.cool/bizzar">
+    <img src="https://leetcard.jacoblin.cool/bizzar" alt="LeetCode Stats" style="width: 100%; max-width: 800px;" />
+  </a>
+</div>
