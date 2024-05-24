@@ -35,8 +35,3 @@
  </a> 
 </p>
 <br />
-<div align="center">
-  <a href="https://leetcard.jacoblin.cool/bizzar">
-    <img src="https://leetcard.jacoblin.cool/bizzar" alt="LeetCode Stats" />
-  </a>
-</div>
