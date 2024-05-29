@@ -12,18 +12,14 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=weble+kz">「 Google Me 」</a>
     <br>
-    「 I am a Go developer from <b>Astana</b> 」
+    I am a Backend developer from <b>Astana</b>
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://weble.kz" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
  <a href="https://www.linkedin.com/in/aidos-galimzhan-b00bb7213/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
